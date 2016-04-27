@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fii domn!</string>
+    <string name="enter_amount">Digitati suma</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Ciubuc</string>
+    <string name="total">Total</string>
+</resources>
